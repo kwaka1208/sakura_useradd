@@ -1,0 +1,2 @@
+# sakura_useradd
+CoderDojoで利用させていただいているさくらのクラウドにユーザーを追加する
